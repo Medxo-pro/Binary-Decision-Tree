@@ -1,0 +1,8 @@
+ram,screen size,ssd,graphic card,outcome
+4,large,lot,strong,reject
+4,small,little,weak,reject
+16,large,little,strong,accept
+16,small,lot,weak,reject
+8,large,little,strong,accept
+8,small,lot,strong,accept
+8,small,little,strong,reject
